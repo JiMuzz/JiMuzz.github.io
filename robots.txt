@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://jimulz.gitee.io/jimublog/sitemap.xml
+Sitemap: http://jimuzz.github.io/sitemap.xml

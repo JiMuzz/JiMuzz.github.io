@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Even - A super concise theme for Hugo</title>
-    <link>http://jimulz.gitee.io/jimublog/tags/</link>
+    <link>http://jimuzz.github.io/tags/</link>
     <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimulz.gitee.io/jimublog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimuzz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>preview</title>
-      <link>http://jimulz.gitee.io/jimublog/tags/preview/</link>
+      <link>http://jimuzz.github.io/tags/preview/</link>
       <pubDate>Mon, 21 Sep 2020 08:18:00 +0800</pubDate>
       
-      <guid>http://jimulz.gitee.io/jimublog/tags/preview/</guid>
+      <guid>http://jimuzz.github.io/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-1</title>
-      <link>http://jimulz.gitee.io/jimublog/tags/tag-1/</link>
+      <link>http://jimuzz.github.io/tags/tag-1/</link>
       <pubDate>Mon, 21 Sep 2020 08:18:00 +0800</pubDate>
       
-      <guid>http://jimulz.gitee.io/jimublog/tags/tag-1/</guid>
+      <guid>http://jimuzz.github.io/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>面试</title>
-      <link>http://jimulz.gitee.io/jimublog/tags/%E9%9D%A2%E8%AF%95/</link>
+      <link>http://jimuzz.github.io/tags/%E9%9D%A2%E8%AF%95/</link>
       <pubDate>Mon, 21 Sep 2020 08:18:00 +0800</pubDate>
       
-      <guid>http://jimulz.gitee.io/jimublog/tags/%E9%9D%A2%E8%AF%95/</guid>
+      <guid>http://jimuzz.github.io/tags/%E9%9D%A2%E8%AF%95/</guid>
       <description></description>
     </item>
     

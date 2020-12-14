@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>preview on Even - A super concise theme for Hugo</title>
-    <link>http://jimulz.gitee.io/jimublog/tags/preview/</link>
+    <link>http://jimuzz.github.io/tags/preview/</link>
     <description>Recent content in preview on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimulz.gitee.io/jimublog/tags/preview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimuzz.github.io/tags/preview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>网络三问</title>
-      <link>http://jimulz.gitee.io/jimublog/post/%E7%BD%91%E7%BB%9C%E4%B8%89%E9%97%AE%E7%BE%8E%E5%9B%A2%E7%9C%9F%E9%A2%98/</link>
+      <link>http://jimuzz.github.io/post/%E7%BD%91%E7%BB%9C%E4%B8%89%E9%97%AE%E7%BE%8E%E5%9B%A2%E7%9C%9F%E9%A2%98/</link>
       <pubDate>Mon, 21 Sep 2020 08:18:00 +0800</pubDate>
       
-      <guid>http://jimulz.gitee.io/jimublog/post/%E7%BD%91%E7%BB%9C%E4%B8%89%E9%97%AE%E7%BE%8E%E5%9B%A2%E7%9C%9F%E9%A2%98/</guid>
+      <guid>http://jimuzz.github.io/post/%E7%BD%91%E7%BB%9C%E4%B8%89%E9%97%AE%E7%BE%8E%E5%9B%A2%E7%9C%9F%E9%A2%98/</guid>
       <description>网络三问—美团真题 网络问题算是每个程序员的必修课，所以网络基础问的也是特别多，尤其是大前端行业。今天的面试三问是： 网页中输入url，到渲染整</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Even - A super concise theme for Hugo</title>
-    <link>http://jimulz.gitee.io/jimublog/categories/</link>
+    <link>http://jimuzz.github.io/categories/</link>
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimulz.gitee.io/jimublog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2020 08:18:00 +0800</lastBuildDate><atom:link href="http://jimuzz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>面试</title>
-      <link>http://jimulz.gitee.io/jimublog/categories/%E9%9D%A2%E8%AF%95/</link>
+      <link>http://jimuzz.github.io/categories/%E9%9D%A2%E8%AF%95/</link>
       <pubDate>Mon, 21 Sep 2020 08:18:00 +0800</pubDate>
       
-      <guid>http://jimulz.gitee.io/jimublog/categories/%E9%9D%A2%E8%AF%95/</guid>
+      <guid>http://jimuzz.github.io/categories/%E9%9D%A2%E8%AF%95/</guid>
       <description></description>
     </item>
     
